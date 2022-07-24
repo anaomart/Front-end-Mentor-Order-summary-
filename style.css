@@ -57,6 +57,9 @@ p {
     font-weight: 700;
     margin-bottom: 3px;
 }
+.price-card span {
+    color:gray;
+}
 
 .price-plan {
     margin-left: -70px;
